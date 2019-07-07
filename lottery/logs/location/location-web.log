@@ -1,0 +1,182 @@
+2019-07-05 13:30:09,847 ERROR 10852 [-/127.0.0.1/-/39ms GET /] nodejs.AssertionError [ERR_ASSERTION]: Can't find viewEngine for D:\Work_Space\Egg.js\location\app\view\lottery.html
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:66:5)
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 10852
+hostname: LAPTOP-83OS1GJI
+
+2019-07-05 14:01:34,152 ERROR 25848 [-/127.0.0.1/-/64ms GET /] nodejs.TypeError: D:\Work_Space\Egg.js\location\app\view\lottery.html:13
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    at eval (eval at compile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:633:12), <anonymous>:11:31)
+    at returnedFn (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:668:17)
+    at tryHandleCache (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:254:36)
+    at Object.exports.renderFile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:485:10)
+    at Promise (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:28:36)
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:70:23)
+path: "D:\\Work_Space\\Egg.js\\location\\app\\view\\lottery.html"
+pid: 25848
+hostname: LAPTOP-83OS1GJI
+
+2019-07-05 14:01:34,582 ERROR 25848 [-/127.0.0.1/-/56ms GET /] nodejs.TypeError: D:\Work_Space\Egg.js\location\app\view\lottery.html:13
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    at eval (eval at compile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:633:12), <anonymous>:11:31)
+    at returnedFn (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:668:17)
+    at tryHandleCache (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:254:36)
+    at Object.exports.renderFile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:485:10)
+    at Promise (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:28:36)
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:70:23)
+path: "D:\\Work_Space\\Egg.js\\location\\app\\view\\lottery.html"
+pid: 25848
+hostname: LAPTOP-83OS1GJI
+
+2019-07-05 14:03:32,444 ERROR 25848 [-/127.0.0.1/-/119ms GET /] nodejs.TypeError: D:\Work_Space\Egg.js\location\app\view\lottery.html:13
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    at eval (eval at compile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:633:12), <anonymous>:11:31)
+    at returnedFn (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:668:17)
+    at tryHandleCache (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:254:36)
+    at Object.exports.renderFile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:485:10)
+    at Promise (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:28:36)
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:70:23)
+path: "D:\\Work_Space\\Egg.js\\location\\app\\view\\lottery.html"
+pid: 25848
+hostname: LAPTOP-83OS1GJI
+
+2019-07-05 14:03:44,061 ERROR 25848 [-/127.0.0.1/-/100ms GET /] nodejs.TypeError: D:\Work_Space\Egg.js\location\app\view\lottery.html:13
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    at eval (eval at compile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:633:12), <anonymous>:11:31)
+    at returnedFn (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:668:17)
+    at tryHandleCache (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:254:36)
+    at Object.exports.renderFile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:485:10)
+    at Promise (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:28:36)
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:70:23)
+path: "D:\\Work_Space\\Egg.js\\location\\app\\view\\lottery.html"
+pid: 25848
+hostname: LAPTOP-83OS1GJI
+
+2019-07-05 14:03:49,195 ERROR 25848 [-/127.0.0.1/-/85ms GET /] nodejs.TypeError: D:\Work_Space\Egg.js\location\app\view\lottery.html:13
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    11|     <div class="content">   
+    12|         <h2>彩票种类</h2>
+ >> 13|         <%for(var i = 0; i < list.length; i++){%>
+    14|             <div class="detail">
+    15|                 <%=list[i].lottery_name%>
+    16|             </div>
+
+Cannot read property 'length' of null
+    at eval (eval at compile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:633:12), <anonymous>:11:31)
+    at returnedFn (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:668:17)
+    at tryHandleCache (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:254:36)
+    at Object.exports.renderFile (D:\Work_Space\Egg.js\location\node_modules\_ejs@2.6.2@ejs\lib\ejs.js:485:10)
+    at Promise (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:16:11)
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\Work_Space\Egg.js\location\node_modules\_egg-view-ejs@2.0.0@egg-view-ejs\lib\view.js:28:36)
+    at ContextView.[contextView#render] (D:\Work_Space\Egg.js\location\node_modules\_egg-view@2.1.2@egg-view\lib\context_view.js:70:23)
+path: "D:\\Work_Space\\Egg.js\\location\\app\\view\\lottery.html"
+pid: 25848
+hostname: LAPTOP-83OS1GJI
+
+2019-07-07 20:43:29,317 ERROR 10784 [-/127.0.0.1/-/261ms GET /ssqquery] nodejs.TypeError: Cannot read property 'lotteryResList' of undefined
+    at QuerydataService.SSQquery (D:\Work_Space\Egg.js\location\app\service\querydata.js:28:66)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 10784
+hostname: LAPTOP-83OS1GJI
+
+2019-07-07 20:45:21,042 ERROR 10784 [-/127.0.0.1/-/3102ms GET /ssqquery] nodejs.TypeError: Cannot read property 'lotteryResList' of undefined
+    at QuerydataService.SSQquery (D:\Work_Space\Egg.js\location\app\service\querydata.js:28:66)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 10784
+hostname: LAPTOP-83OS1GJI
+
+2019-07-07 20:49:14,460 ERROR 7692 [-/127.0.0.1/-/176ms GET /ssqquery] nodejs.TypeError: Cannot read property '0' of undefined
+    at QuerydataService.SSQquery (D:\Work_Space\Egg.js\location\app\service\querydata.js:32:72)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 7692
+hostname: LAPTOP-83OS1GJI
+
