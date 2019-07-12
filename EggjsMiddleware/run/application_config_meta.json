@@ -1,0 +1,302 @@
+{
+  "keys": "D:\\Work_Space\\Egg.js\\lottery2\\config\\config.default.js",
+  "view": {
+    "mapping": {
+      ".html": "D:\\Work_Space\\Egg.js\\lottery2\\config\\config.default.js"
+    },
+    "root": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "api": "D:\\Work_Space\\Egg.js\\lottery2\\config\\config.default.js",
+  "middleware": "D:\\Work_Space\\Egg.js\\lottery2\\config\\config.default.js",
+  "date": {
+    "aaa": "D:\\Work_Space\\Egg.js\\lottery2\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "useSession": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "headerName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "queryName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "value": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "policy": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "files": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-multipart@2.7.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "ejs": {
+    "root": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "cache": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.local.js",
+    "debug": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "compileDebug": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "delimiter": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js",
+    "strict": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg-view-ejs@2.0.0@egg-view-ejs\\config\\config.default.js"
+  },
+  "env": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "name": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "proxy": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "version": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "description": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "private": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "egg-view-ejs": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "autod-egg": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "egg-bin": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "egg-ci": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "egg-mock": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "eslint": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "stop": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "dev": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "debug": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "test": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "test-local": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "cov": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "lint": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "ci": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "autod": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "url": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "author": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "license": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "HOME": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "rundir": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "notFound": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "sitefile": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "middlewares": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "httpClient": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "encoding": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "formLimit": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "strict": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "depth": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "encoding": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "env": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "level": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "outputJSON": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "buffer": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "appLogName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "coreLogName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "agentLogName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "errorLogName": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "maxSockets": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "maxSockets": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "logging": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "port": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+      "hostname": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\Work_Space\\Egg.js\\lottery2\\node_modules\\_egg@2.22.2@egg\\config\\config.default.js"
+}

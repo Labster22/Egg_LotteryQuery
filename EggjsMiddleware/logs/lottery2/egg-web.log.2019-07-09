@@ -1,0 +1,45 @@
+2019-07-09 20:44:15,110 INFO 33324 [egg:logger] init all loggers with options: {"dir":"D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lottery2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-09 20:44:15,231 INFO 33324 [egg-multipart] stream mode enable
+2019-07-09 20:44:15,328 INFO 33324 [egg-static] starting static serve /public/ -> D:\Work_Space\Egg.js\lottery2\app\public
+2019-07-09 20:44:15,332 INFO 33324 [egg-security] use csrf middleware
+2019-07-09 20:44:15,334 INFO 33324 [egg-security] use methodnoallow middleware
+2019-07-09 20:44:15,335 INFO 33324 [egg-security] use noopen middleware
+2019-07-09 20:44:15,337 INFO 33324 [egg-security] use nosniff middleware
+2019-07-09 20:44:15,337 INFO 33324 [egg-security] use xssProtection middleware
+2019-07-09 20:44:15,338 INFO 33324 [egg-security] use xframe middleware
+2019-07-09 20:44:15,339 INFO 33324 [egg-security] use dta middleware
+2019-07-09 20:44:15,339 INFO 33324 [egg-security] compose 7 middlewares into one security middleware
+2019-07-09 20:44:15,372 INFO 33324 [egg:core] dump config after load, 18ms
+2019-07-09 20:44:15,385 INFO 33324 [egg-watcher:application] watcher start success
+2019-07-09 20:44:15,406 INFO 33324 [egg:core] dump config after ready, 19ms
+2019-07-09 20:45:49,425 ERROR 33324 nodejs.ServerNoResponseError: server 127.0.0.1:8592 no response in 39994ms, maybe the socket is end on the other side. (address: 127.0.0.1:8592)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (D:\Work_Space\Egg.js\lottery2\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ServerNoResponseError"
+pid: 33324
+hostname: LAPTOP-83OS1GJI
+
+2019-07-09 20:45:49,541 WARN 33324 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-09 20:47:28,969 INFO 32616 [egg:logger] init all loggers with options: {"dir":"D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lottery2-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-07-09 20:47:29,043 INFO 32616 [egg-multipart] stream mode enable
+2019-07-09 20:47:29,276 INFO 32616 [egg-static] starting static serve /public/ -> D:\Work_Space\Egg.js\lottery2\app\public
+2019-07-09 20:47:29,286 INFO 32616 [egg-security] use csrf middleware
+2019-07-09 20:47:29,291 INFO 32616 [egg-security] use methodnoallow middleware
+2019-07-09 20:47:29,292 INFO 32616 [egg-security] use noopen middleware
+2019-07-09 20:47:29,296 INFO 32616 [egg-security] use nosniff middleware
+2019-07-09 20:47:29,298 INFO 32616 [egg-security] use xssProtection middleware
+2019-07-09 20:47:29,300 INFO 32616 [egg-security] use xframe middleware
+2019-07-09 20:47:29,301 INFO 32616 [egg-security] use dta middleware
+2019-07-09 20:47:29,301 INFO 32616 [egg-security] compose 7 middlewares into one security middleware
+2019-07-09 20:47:29,354 INFO 32616 [egg:core] dump config after load, 40ms
+2019-07-09 20:47:29,393 INFO 32616 [egg-watcher:application] watcher start success
+2019-07-09 20:47:29,439 INFO 32616 [egg:core] dump config after ready, 43ms
+2019-07-09 21:20:01,569 WARN 32616 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-09 23:59:51,599 WARN 32616 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-07-09 23:59:51,683 WARN 32616 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-07-10 00:00:00,003 INFO 32616 [egg-logrotator] clean all log before 31 days
+2019-07-10 00:00:00,992 INFO 32616 [egg-logrotator] broadcast log-reload
+2019-07-10 00:00:00,993 INFO 32616 [egg-logrotator] rotate files success by DayRotator, files ["D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\common-error.log -> D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\common-error.log.2019-07-09","D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\lottery2-web.log -> D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\lottery2-web.log.2019-07-09","D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-web.log -> D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-web.log.2019-07-09","D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-schedule.log -> D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-schedule.log.2019-07-09","D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-agent.log -> D:\\Work_Space\\Egg.js\\lottery2\\logs\\lottery2\\egg-agent.log.2019-07-09"]

@@ -1,0 +1,45 @@
+2019-07-11 21:03:16,266 ERROR 27680 [-/127.0.0.1/-/112ms GET /] nodejs.TypeError: Cannot set property 'body' of undefined
+    at date (D:\Work_Space\Egg.js\lottery2\app\middleware\date.js:7:23)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\Work_Space\Egg.js\lottery2\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dta (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at xframe (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\xframe.js:7:11)
+
+pid: 27680
+hostname: LAPTOP-83OS1GJI
+
+2019-07-11 21:03:23,152 ERROR 27680 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: Cannot set property 'body' of undefined
+    at date (D:\Work_Space\Egg.js\lottery2\app\middleware\date.js:7:23)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\Work_Space\Egg.js\lottery2\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dta (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at xframe (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\xframe.js:7:11)
+
+pid: 27680
+hostname: LAPTOP-83OS1GJI
+
+2019-07-11 21:19:55,104 ERROR 47424 [-/127.0.0.1/-/15ms GET /aa] nodejs.TypeError: Cannot read property 'query' of undefined
+    at date (D:\Work_Space\Egg.js\lottery2\app\middleware\date.js:7:30)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at D:\Work_Space\Egg.js\lottery2\node_modules\_egg-development@2.4.3@egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at i18n (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-i18n@2.1.1@egg-i18n\app\middleware\i18n.js:13:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at dta (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\dta.js:12:12)
+    at dispatch (D:\Work_Space\Egg.js\lottery2\node_modules\_koa-compose@4.1.0@koa-compose\index.js:42:32)
+    at xframe (D:\Work_Space\Egg.js\lottery2\node_modules\_egg-security@2.5.0@egg-security\lib\middlewares\xframe.js:7:11)
+
+pid: 47424
+hostname: LAPTOP-83OS1GJI
+

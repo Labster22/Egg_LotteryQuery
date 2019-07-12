@@ -1,0 +1,40 @@
+2019-07-09 20:45:35,389 ERROR 33324 nodejs.ServerNoResponseError: server 127.0.0.1:8592 no response in 39994ms, maybe the socket is end on the other side. (address: 127.0.0.1:8592)
+    at Timeout._heartbeatTimer.setInterval [as _onTimeout] (D:\Work_Space\Egg.js\lottery2\node_modules\_tcp-base@3.1.0@tcp-base\lib\base.js:427:21)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ServerNoResponseError"
+pid: 33324
+hostname: LAPTOP-83OS1GJI
+
+2019-07-09 20:45:49,434 ERROR 8792 nodejs.ClusterClientNoResponseError: client no response in 74024ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\Work_Space\Egg.js\lottery2\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 8792
+hostname: LAPTOP-83OS1GJI
+
+2019-07-09 21:20:01,571 ERROR 45860 nodejs.ClusterClientNoResponseError: client no response in 432135ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\Work_Space\Egg.js\lottery2\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 45860
+hostname: LAPTOP-83OS1GJI
+
+2019-07-09 23:59:51,666 ERROR 45860 nodejs.ClusterClientNoResponseError: client no response in 5660980ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (D:\Work_Space\Egg.js\lottery2\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 45860
+hostname: LAPTOP-83OS1GJI
+
